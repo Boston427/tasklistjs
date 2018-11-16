@@ -1,0 +1,12 @@
+body {
+  background: #333;
+}
+
+#main {
+  background: #eee;
+  margin-top: 20vh;
+}
+
+.fas {
+  color: red;
+}
